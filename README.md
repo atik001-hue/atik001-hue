@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/atiquli52693683" target="blank"><img src="https://img.shields.io/twitter/follow/atiquli52693683?logo=twitter&style=for-the-badge" alt="atiquli52693683" /></a> </p>
 
-- 🔭 I’m currently working on Web 3.0 project [Astute Dao](https://go-astute.finance)
+- 🔭 I’m currently working on Web 3.0, Blockchain Project [Astute Dao](https://go-astute.finance)
 
 - 🌱 I’m currently learning **Python, JavaScript, React Native, Django, Redux**
 
