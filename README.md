@@ -25,7 +25,7 @@
 <a href="https://fb.com/atiqulislam001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atiqulislam001" height="30" width="40" /></a>
 <a href="https://instagram.com/atiqul_islam_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atiqul_islam_s" height="30" width="40" /></a>
 <a href="https://www.behance.net/atiqulislam8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="atiqulislam8" height="30" width="40" /></a>
-<a href="https://discord.gg/Atik#9769" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Atik#9769" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
