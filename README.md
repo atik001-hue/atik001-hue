@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Python, JavaScript, React Native, Django, Redux**
 
 - 👯 I’m looking to collaborate on Development project
-- 👨‍💻 All of my projects are available at [https://atiqulislam.top](https://atiqulislam.top)  , [avoits.com](https://avoits.com/)
+- 👨‍💻 All of my projects are available at (https://atiqulislam.top)  , [avoits.com](https://avoits.com/)
 
 - 📫 How to reach me **akatiq16@gmail.com**
 
