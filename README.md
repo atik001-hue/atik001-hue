@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **akatiq16@gmail.com** ,  **Whatsapp:+8801847338716**
 
-- 📄 Know about my experiences [https://atiqulislam.top/resume/Atiqul%20Islam.pdf](https://atiqulislam.top/resume/Atiqul%20Islam.pdf)
+
 
 - ⚡ Fun fact **I am funny 😀**
 
