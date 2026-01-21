@@ -15,9 +15,6 @@
 - 📫 How to reach me **akatiq16@gmail.com** ,  **Whatsapp:+8801847338716**
 
 
-
-- ⚡ Fun fact **I am funny 😀**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atiquli52693683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atiquli52693683" height="30" width="40" /></a>
